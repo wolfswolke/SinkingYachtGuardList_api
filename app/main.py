@@ -3,7 +3,7 @@ import os
 from fastapi import FastAPI
 from fastapi.datastructures import State
 from contextlib import asynccontextmanager
-from app.routes import general, backend
+from routes import general, backend
 from services.api_handler import yacht_handler
 
 @asynccontextmanager
