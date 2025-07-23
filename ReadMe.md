@@ -16,6 +16,8 @@ which Adguard can use.
 
 `BASE_URL` the base URL of the Sinking Yacht. (https://phish.sinking.yachts/v2/all)
 
+`HOLDING_TIME` in what interval the API should check for new links in seconds. (default: 86400 seconds/ 24 hours)
+
 ## CLI
 To run this API in your cli use the following command:
 
