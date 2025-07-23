@@ -5,7 +5,7 @@ the Sinking Yacht Site and converts them into a format
 which Adguard can use.
 
 # SOURCES
-[The Sinking Yacht](https://phish.sinking.yachts/)
+[The Sinking Yacht](https://sinking.yachts/docs/)
 
 [Sinking Yacht Github](https://github.com/SinkingYachts)
 
