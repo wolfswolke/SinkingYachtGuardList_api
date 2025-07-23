@@ -1,0 +1,4 @@
+fastapi~=0.116.1
+oci-cli~=3.63.0
+requests~=2.32.4
+uvicorn~=0.35.0
