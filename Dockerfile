@@ -1,4 +1,4 @@
-FROM python:3.14.7-alpine
+FROM python:3.15.0rc1-alpine
 LABEL authors="ZKWolf"
 LABEL description="Sinking Yacht Adguard Converter API"
 ENV TZ="Europe/Vienna" \
