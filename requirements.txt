@@ -1,4 +1,4 @@
 fastapi==0.141.1
-oci-cli==3.90.1
+oci-cli==3.90.2
 requests==2.34.2
 uvicorn==0.52.1
