@@ -1,8 +1,7 @@
 FROM python:3.15.2-alpine3.24
 LABEL authors="ZKWolf"
 LABEL description="Sinking Yacht Adguard Converter API"
-ENV TZ="Europe/Vienna" \
-    PYTHONUNBUFFERED=1 \
+ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     PYTHONPATH=/app
 
